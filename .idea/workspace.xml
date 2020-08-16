@@ -96,8 +96,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="349" y="0" key="#lo_basico" timestamp="1597549638626">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="349" y="0" key="#lo_basico/0.0.1280.760@0.0.1280.760" timestamp="1597549638626" />
     <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1596770258471">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -114,5 +119,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596770258470" />
+    <state x="449" y="294" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597550012165">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="449" y="294" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.760@0.0.1280.760" timestamp="1597550012165" />
   </component>
 </project>
