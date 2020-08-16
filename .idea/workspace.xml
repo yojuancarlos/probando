@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d90542da-16f1-4bf6-94e6-e1215d6bd03d" name="Default Changelist" comment="" />
+    <list default="true" id="d90542da-16f1-4bf6-94e6-e1215d6bd03d" name="Default Changelist" comment="cfjsnlkfnslkf">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,6 +86,21 @@
       <option name="presentableId" value="Default" />
       <updated>1596769994155</updated>
     </task>
+    <task id="LOCAL-00001" summary="agrefueaddmfk">
+      <created>1597549460372</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597549460373</updated>
+    </task>
+    <task id="LOCAL-00002" summary="cfjsnlkfnslkf">
+      <created>1597549651046</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597549651046</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -97,6 +114,7 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+<<<<<<< HEAD
   </component>
   <component name="WindowStateProjectService">
     <state x="349" y="0" key="#lo_basico" timestamp="1597549638626">
@@ -104,24 +122,46 @@
     </state>
     <state x="349" y="0" key="#lo_basico/0.0.1280.760@0.0.1280.760" timestamp="1597549638626" />
     <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1596770258471">
+=======
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="agrefueaddmfk" />
+    <MESSAGE value="cfjsnlkfnslkf" />
+    <option name="LAST_COMMIT_MESSAGE" value="cfjsnlkfnslkf" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1597549543703">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596770258471" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1596770258470">
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597549543703" />
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1596770480273">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596770258470" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1596770258469">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596770480273" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1596770480272">
+>>>>>>> 0b55cd0c0efd6173c7638eba30d2d80f04f175a4
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596770258469" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1596770258470">
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596770480272" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1596770480271">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596770480271" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1596770480272">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596770480272" />
+    <state x="492" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597549698204">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+<<<<<<< HEAD
     <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596770258470" />
     <state x="449" y="294" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597550012165">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="449" y="294" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.760@0.0.1280.760" timestamp="1597550012165" />
+=======
+    <state x="492" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1597549698204" />
+>>>>>>> 0b55cd0c0efd6173c7638eba30d2d80f04f175a4
   </component>
 </project>
