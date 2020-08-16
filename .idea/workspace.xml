@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d90542da-16f1-4bf6-94e6-e1215d6bd03d" name="Default Changelist" comment="agrgue un hola mundo" />
+    <list default="true" id="d90542da-16f1-4bf6-94e6-e1215d6bd03d" name="Default Changelist" comment="cfjsnlkfnslkf">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,6 +86,21 @@
       <option name="presentableId" value="Default" />
       <updated>1596769994155</updated>
     </task>
+    <task id="LOCAL-00001" summary="agrefueaddmfk">
+      <created>1597549460372</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597549460373</updated>
+    </task>
+    <task id="LOCAL-00002" summary="cfjsnlkfnslkf">
+      <created>1597549651046</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597549651046</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,11 +115,16 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="agrefueaddmfk" />
+    <MESSAGE value="cfjsnlkfnslkf" />
+    <option name="LAST_COMMIT_MESSAGE" value="cfjsnlkfnslkf" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1596922673021">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1597549543703">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1596922673021" />
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597549543703" />
     <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1596770480273">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
